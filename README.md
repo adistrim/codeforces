@@ -1,1 +1,4 @@
-Back-up of my codeforces questions and solutions in C and C++
+# Codeforces Solutions
+Back-up of my codeforces solutions.
+
+```bits/stdc++.h``` setup is required to run these files.
